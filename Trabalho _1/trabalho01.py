@@ -59,7 +59,7 @@ class trabalho:
 
     def densidade(self):
         print("Densidade do Grafo: ", end=" ")
-        print(self.vert/(self.arestas+1))
+        print(self.arestas/self.vert)
 
     def freq(self):
         soma2 = []

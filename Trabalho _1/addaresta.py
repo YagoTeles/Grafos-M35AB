@@ -31,7 +31,7 @@ class adicionar:
     m.add_arrest(PE, PB);m.add_arrest(PE, CE);m.add_arrest(PE, PI);m.add_arrest(PE, BA);m.add_arrest(PE, AL)
     m.add_arrest(AL, PE);m.add_arrest(AL, BA);m.add_arrest(AL, SE)
     m.add_arrest(SE, AL);m.add_arrest(SE, BA)
-    m.add_arrest(BA, SE);m.add_arrest(BA, ES);m.add_arrest(BA, MG);m.add_arrest(BA, GO);m.add_arrest(BA, TO);m.add_arrest(BA, MA);m.add_arrest(BA, PI);m.add_arrest(BA, PE);m.add_arrest(BA, AL)
+    m.add_arrest(BA, SE);m.add_arrest(BA, ES);m.add_arrest(BA, MG);m.add_arrest(BA, GO);m.add_arrest(BA, TO);m.add_arrest(BA, PI);m.add_arrest(BA, PE);m.add_arrest(BA, AL)
     m.show_matrix()
 
     print()
