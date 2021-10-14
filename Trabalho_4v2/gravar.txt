@@ -1,0 +1,63 @@
+Graus (Máximo,Médio e Mínimo): 
+O grau máximo é: 8
+O grau mínimo é: 1
+O grau médio é: 3.7777777777777777
+======================================= 
+Distância do nó 6 para cada vértice: 
+Para o vértice 0 a distância é: 4
+Para o vértice 1 a distância é: 3
+Para o vértice 2 a distância é: 3
+Para o vértice 3 a distância é: 4
+Para o vértice 4 a distância é: 2
+Para o vértice 5 a distância é: 4
+Para o vértice 6 a distância é: 0
+Para o vértice 7 a distância é: 2
+Para o vértice 8 a distância é: 1
+Para o vértice 9 a distância é: 3
+Para o vértice 10 a distância é: 1
+Para o vértice 11 a distância é: 2
+Para o vértice 12 a distância é: 2
+Para o vértice 13 a distância é: 3
+Para o vértice 14 a distância é: 4
+Para o vértice 15 a distância é: 3
+Para o vértice 16 a distância é: 3
+Para o vértice 17 a distância é: 3
+Para o vértice 18 a distância é: 2
+Para o vértice 19 a distância é: 5
+Para o vértice 20 a distância é: 3
+Para o vértice 21 a distância é: 4
+Para o vértice 22 a distância é: 5
+Para o vértice 23 a distância é: 4
+Para o vértice 24 a distância é: 3
+Para o vértice 25 a distância é: 2
+Para o vértice 26 a distância é: 2
+======================================= 
+O caminho percorrido para cada vértice: 
+6 -> 8 -> 12 -> 2 -> 0
+6 -> 8 -> 4 -> 1
+6 -> 8 -> 12 -> 2
+6 -> 8 -> 12 -> 13 -> 3
+6 -> 8 -> 4
+6 -> 8 -> 4 -> 15 -> 5
+6
+6 -> 10 -> 7
+6 -> 8
+6 -> 8 -> 26 -> 9
+6 -> 10
+6 -> 8 -> 11
+6 -> 8 -> 12
+6 -> 8 -> 12 -> 13
+6 -> 8 -> 4 -> 15 -> 14
+6 -> 8 -> 4 -> 15
+6 -> 8 -> 4 -> 16
+6 -> 8 -> 11 -> 17
+6 -> 10 -> 18
+6 -> 8 -> 4 -> 15 -> 5 -> 19
+6 -> 8 -> 12 -> 20
+6 -> 8 -> 12 -> 2 -> 21
+6 -> 8 -> 11 -> 17 -> 23 -> 22
+6 -> 8 -> 11 -> 17 -> 23
+6 -> 8 -> 4 -> 24
+6 -> 10 -> 25
+6 -> 8 -> 26
+======================================= 
