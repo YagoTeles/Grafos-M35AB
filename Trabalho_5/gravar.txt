@@ -1,0 +1,7 @@
+Caminho percorrido usando a DSF Recursiva: 
+
+
+Caminho percorrido usando a DSF em Pilha: 
+
+
+Caminho percorrido porem descobrindo os vertices de maior valor primeiro: 
