@@ -1,0 +1,21 @@
+Problema 1: 
+_________________________________
+Vertice | Caminho Percorrido
+
+	s	| s
+	t	| s -> y -> x -> t
+	x	| s -> y -> x
+	y	| s -> y
+	z	| s -> y -> x -> t -> z
+_________________________________
+Vertice | Menor Caminho 
+
+	s	|	0
+	t	|	2
+	x	|	4
+	y	|	7
+	z	|	-2
+_________________________________
+
+Problema 2: 
+Grafo contém ciclo de peso negativo
